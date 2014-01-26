@@ -1,4 +1,4 @@
-Ball int to Ring
+Ball into Ring
 ====================
 
 This is a program to practice shooting a ball into a ring on the floor.
